@@ -82,12 +82,9 @@ output——默认生成静态html的输出文件夹
 ***
 ##引用
 本人搭建过程中参考了许多其他人的教程，在此引用致谢。
-http://www.lizherui.com/pages/2013/08/17/build_blog.html 
-https://gist.github.com/josefjezek/6053301 
-http://zonca.github.io/2013/09/automatically-build-pelican-and-publish-to-github-pages.html 
-http://martinbrochhaus.com/pelican2.html  
-http://ntanjerome.org/blog/how-to-setup-github-user-page-with-pelican 
-
-
-
+http://www.lizherui.com/pages/2013/08/17/build_blog.html
+https://gist.github.com/josefjezek/6053301
+http://zonca.github.io/2013/09/automatically-build-pelican-and-publish-to-github-pages.html
+http://martinbrochhaus.com/pelican2.html
+http://ntanjerome.org/blog/how-to-setup-github-user-page-with-pelican
 
